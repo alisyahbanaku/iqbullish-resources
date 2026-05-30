@@ -1,18 +1,18 @@
-title: Iqbullish Resources
-description: Web3 & Crypto Indonesia — community building, self-custody, event organizing
-url: https://alisyahbanaku.github.io
-baseurl: /iqbullish-resources
+title: Iqbullish — Web3 & Crypto Indonesia Resources
+description: Tulisan, dokumentasi, dan resource Web3, DeFi, NFT, AI agent automation, bug bounty, dan SEO untuk Web3. Ditulis oleh Muhammad Iqbal — community organizer crypto Yogyakarta.
+url: "https://alisyahbanaku.github.io"
+baseurl: "/iqbullish-resources"
 theme: jekyll-theme-cayman
-
-author:
-  name: Muhammad Iqbal
-  email: contact@iqbullish.xyz
-  url: https://iqbullish.xyz
-
+plugins:
+  - jekyll-seo-tag
+author: Muhammad Iqbal (@iqbullish)
+twitter:
+  username: iqbullish
+  card: summary
 social:
-  - title: Site
-    url: https://iqbullish.xyz
-  - title: Telegram
-    url: https://t.me/iqbullish
-  - title: X
-    url: https://x.com/iqbullish
+  name: Iqbullish
+  links:
+    - https://iqbullish.xyz
+    - https://t.me/iqbullish
+    - https://x.com/iqbullish
+    - https://instagram.com/iqbullish

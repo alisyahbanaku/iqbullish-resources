@@ -5,33 +5,63 @@ title: Iqbullish Resources
 
 # Iqbullish — Web3 & Crypto Indonesia Resources
 
-Kumpulan tulisan dan dokumentasi seputar ekosistem crypto Indonesia, community building, dan self-custody — ditulis oleh **Muhammad Iqbal** ([@iqbullish](https://t.me/iqbullish)), community organizer crypto berbasis Yogyakarta.
+Kumpulan tulisan, dokumentasi, dan resource seputar ekosistem crypto Indonesia, community building, DeFi, NFT, AI agent automation, bug bounty, dan SEO untuk Web3.
 
-> **Site utama:** [iqbullish.xyz](https://iqbullish.xyz)
-> **Galeri event:** [iqbullish.xyz/gallery](https://iqbullish.xyz/gallery)
-> **Kontak:** [contact@iqbullish.xyz](mailto:contact@iqbullish.xyz)
+**Site utama:** [iqbullish.xyz](https://iqbullish.xyz)
+**Galeri event:** [iqbullish.xyz/gallery](https://iqbullish.xyz/gallery)
+**Kontak:** [contact@iqbullish.xyz](mailto:contact@iqbullish.xyz) | [Telegram @iqbullish](https://t.me/iqbullish)
 
 ---
 
-## Daftar Artikel
+## Cluster: Community Building & Event Crypto
 
-### 1. [Geliat Crypto Event di Indonesia: Kenapa Komunitas Lokal Penting di 2026](https://telegra.ph/Geliat-Crypto-Event-di-Indonesia-Kenapa-Komunitas-Lokal-Penting-di-2026-05-30)
-Analisis ekosistem crypto Indonesia 2026 dan peran komunitas Tier 2 di luar Jakarta. Format event yang berhasil, tantangan regulasi, outlook ke depan.
+### 1. Geliat Crypto Event di Indonesia
+Analisis ekosistem crypto Indonesia 2026 dan peran komunitas Tier 2 di luar Jakarta.
+👉 https://telegra.ph/Geliat-Crypto-Event-di-Indonesia-Kenapa-Komunitas-Lokal-Penting-di-2026-05-30
 
-### 2. [Pengalaman Jadi Bitget Event Builder: Format, Insentif, dan Reality Check](https://telegra.ph/Pengalaman-Jadi-Bitget-Event-Builder-Format-Insentif-dan-Reality-Check-05-30)
-Reality check program ambassador Bitget dari pengalaman 2 tahun mengoperasikan event di 7 kota di Jawa.
+### 2. Pengalaman Jadi Bitget Event Builder
+Reality check program ambassador Bitget dari pengalaman 2 tahun di 7 kota.
+👉 https://telegra.ph/Pengalaman-Jadi-Bitget-Event-Builder-Format-Insentif-dan-Reality-Check-05-30
 
-### 3. [Trust Squad Indonesia: Cara Kerja, Seleksi, dan Dampak ke Karir Web3](https://telegra.ph/Trust-Squad-Indonesia-Cara-Kerja-Seleksi-dan-Dampak-ke-Karir-Web3-05-30)
-Breakdown program moderator Trust Wallet Indonesia, proses seleksi, realita sehari-hari, dan dampak jangka panjang ke karir Web3.
+### 3. Trust Squad Indonesia
+Breakdown program moderator Trust Wallet Indonesia, seleksi, dan jalur karir Web3.
+👉 https://telegra.ph/Trust-Squad-Indonesia-Cara-Kerja-Seleksi-dan-Dampak-ke-Karir-Web3-05-30
 
-### 4. [Panduan Self-Custody Wallet untuk Pemula: Bukan Sekadar Bikin Trust Wallet](https://telegra.ph/Panduan-Self-Custody-Wallet-untuk-Pemula-Bukan-Sekadar-Bikin-Trust-Wallet-05-30)
-Standar self-custody yang sebenarnya — kesalahan pemula yang paling mahal, struktur 3 wallet, hardware wallet recommendation.
+### 4. Yogyakarta sebagai Crypto Hub Tier 2
+Demografi, cost of operation, dan network effect lokal yang bikin Jogja unggul.
+👉 https://telegra.ph/Kenapa-Yogyakarta-Jadi-Hub-Crypto-Tier-2-Paling-Aktif-di-Indonesia-05-30
 
-### 5. [Kenapa Yogyakarta Jadi Hub Crypto Tier 2 Paling Aktif di Indonesia](https://telegra.ph/Kenapa-Yogyakarta-Jadi-Hub-Crypto-Tier-2-Paling-Aktif-di-Indonesia-05-30)
-Demografi mahasiswa, cost of operation rendah, karakter komunitas yang patient, network effect lokal.
+## Cluster: Self-Custody & Wallet Security
 
-### Index Hub
-👉 [Indeks lengkap di Telegraph](https://telegra.ph/Indeks-Tulisan-Iqbullish--Web3-Community-Crypto-Indonesia-05-30)
+### 5. Panduan Self-Custody Wallet untuk Pemula
+Standar self-custody yang sebenarnya — bukan sekadar bikin Trust Wallet.
+👉 https://telegra.ph/Panduan-Self-Custody-Wallet-untuk-Pemula-Bukan-Sekadar-Bikin-Trust-Wallet-05-30
+
+## Cluster: DeFi & NFT
+
+### 6. Realita DeFi Onchain untuk User Indonesia
+Yang tidak diceritakan influencer: cost, strategy, dan tools wajib.
+👉 https://telegra.ph/Realita-DeFi-Onchain-untuk-User-Indonesia-Yang-Tidak-Diceritakan-Influencer-05-30
+
+### 7. NFT Komunitas Lokal Indonesia
+Apa yang bertahan setelah hype mati — pola survive vs mati.
+👉 https://telegra.ph/NFT-Komunitas-Lokal-Indonesia-Apa-yang-Bertahan-Setelah-Hype-Mati-05-30
+
+## Cluster: AI Agent & Automation
+
+### 8. AI Agent Automation untuk Crypto Workflow
+Setup praktis tanpa hype — stack, use case, risiko, dan cost realistis.
+👉 https://telegra.ph/AI-Agent-Automation-untuk-Crypto-Workflow-Setup-Praktis-Tanpa-Hype-05-30
+
+## Cluster: Career & Skills
+
+### 9. Memulai Bug Bounty Web3 dari Indonesia
+Reality check 2026: platform, skill stack, distribusi income, common mistake.
+👉 https://telegra.ph/Memulai-Bug-Bounty-Web3-dari-Indonesia-Reality-Check-2026-05-30
+
+### 10. SEO untuk Web3 Site
+Strategi praktis dari eksperimen riil di iqbullish.xyz selama 6 bulan.
+👉 https://telegra.ph/SEO-untuk-Web3-Site-Strategi-Praktis-dari-Eksperimen-Riil-di-iqbullishxyz-05-30
 
 ---
 
@@ -42,13 +72,14 @@ Demografi mahasiswa, cost of operation rendah, karakter komunitas yang patient, 
 - Bitget Event Builder (7 kota di Jawa, 300+ community members)
 - Trust Squad — moderator Trust Wallet Indonesia ([t.me/trustwallet_id](https://t.me/trustwallet_id))
 - AI Agent Automation Specialist
+- 2+ tahun mengelola event crypto offline lintas Java
 
 **Sosial:**
+- Site: [iqbullish.xyz](https://iqbullish.xyz)
 - Telegram: [@iqbullish](https://t.me/iqbullish)
 - X: [@iqbullish](https://x.com/iqbullish)
 - Instagram: [@iqbullish](https://instagram.com/iqbullish)
-- Site: [iqbullish.xyz](https://iqbullish.xyz)
 
 ---
 
-*Updated: 2026-05-30*
+*Last updated: 2026-05-30*
