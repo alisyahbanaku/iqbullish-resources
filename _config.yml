@@ -1,0 +1,18 @@
+title: Iqbullish Resources
+description: Web3 & Crypto Indonesia — community building, self-custody, event organizing
+url: https://alisyahbanaku.github.io
+baseurl: /iqbullish-resources
+theme: jekyll-theme-cayman
+
+author:
+  name: Muhammad Iqbal
+  email: contact@iqbullish.xyz
+  url: https://iqbullish.xyz
+
+social:
+  - title: Site
+    url: https://iqbullish.xyz
+  - title: Telegram
+    url: https://t.me/iqbullish
+  - title: X
+    url: https://x.com/iqbullish
